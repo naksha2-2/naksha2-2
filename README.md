@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Naksha
 
-<!--
-**naksha2-2/naksha2-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication | 💻 Aspiring Finance & Chip Systems Developer  
+🔍 Passionate about building real-world tools at the intersection of **tech, finance, and data**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+
+- 🛠️ Currently building: **[Portfolio Optimizer API](https://github.com/naksha2-2/portfolio-optimizer)** using Flask + yFinance  
+- 📈 Interested in: Financial Engineering, Risk Modeling, Quant Research  
+- 🧠 Learning: Deep Finance with Python, Portfolio Theory, and Embedded Systems  
+- 🎯 Goal: Crack internships at **Goldman Sachs, JP Morgan**, and **Maersk**  
+- 🧰 Tools I use: Python, Flask, Pandas, NumPy, C, VHDL
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [📈 Portfolio Optimizer](https://github.com/yourusername/portfolio-optimizer) | Flask API for optimizing stock portfolios based on Sharpe Ratio | Flask, yFinance, NumPy |
+| [⚡ Chip Simulation Tool](#) | (In progress) Simulating logic gates and circuits | VHDL, Verilog |
+| [📊 Data Visualizer](#) | Visualize real-time financial data using Plotly | Python, Plotly, Dash |
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/naksha b alvekar)
+- 📨 [Email](mailto:nakshab326@gmail.com)
+- 💡 
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naksha2-2&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naksha2-2&layout=compact&theme=radical)
+
+---
+
+_“Build boldly, learn endlessly.”_
