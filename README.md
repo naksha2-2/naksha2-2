@@ -19,7 +19,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📈 Portfolio Optimizer](https://github.com/yourusername/portfolio-optimizer) | Flask API for optimizing stock portfolios based on Sharpe Ratio | Flask, yFinance, NumPy |
+| [📈 Portfolio Optimizer](https://github.com/naksha2-2/portfolio_optimizer) | Flask API for optimizing stock portfolios based on Sharpe Ratio | Flask, yFinance, NumPy |
 | [⚡ Chip Simulation Tool](#) | (In progress) Simulating logic gates and circuits | VHDL, Verilog |
 | [📊 Data Visualizer](#) | Visualize real-time financial data using Plotly | Python, Plotly, Dash |
 
