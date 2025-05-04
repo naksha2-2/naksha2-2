@@ -7,7 +7,7 @@
 
 ## ⚡ About Me
 
-- 🛠️ Currently building: **[Portfolio Optimizer API](https://github.com/naksha2-2/portfolio-optimizer)** using Flask + yFinance  
+- 🛠️ Currently building: **[Portfolio Optimizer API](https://github.com/naksha2-2/portfolio_optimizer)** using Flask + yFinance  
 - 📈 Interested in: Financial Engineering, Risk Modeling, Quant Research  
 - 🧠 Learning: Deep Finance with Python, Portfolio Theory, and Embedded Systems  
 - 🎯 Goal: Crack internships at **Goldman Sachs, JP Morgan**, and **Maersk**  
