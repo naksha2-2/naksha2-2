@@ -11,7 +11,7 @@
 - 📈 Interested in: Financial Engineering, Risk Modeling, Quant Research  
 - 🧠 Learning: Deep Finance with Python, Portfolio Theory, and Embedded Systems  
 - 🎯 Goal: Crack internships at **Goldman Sachs, JP Morgan**, and **Maersk**  
-- 🧰 Tools I use: Python, Flask, Pandas, NumPy, C, VHDL
+- 🧰 Tools I use: Python, Flask, Pandas, NumPy, C, VHDL,Machine learning
 
 ---
 
