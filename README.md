@@ -2,15 +2,16 @@
 
 🎓 Electronics & Communication | 💻 Aspiring Finance & Chip Systems Developer  
 🔍 Passionate about building real-world tools at the intersection of **tech, finance, and data**.
+I build, simulate, and verify digital logic systems — from ALUs to SoC modules — using Verilog/SystemVerilog, FPGA toolchains, and Python-based analysis tooling.
 
 ---
 
 ## ⚡ About Me
 
 - 🛠️ Currently building: **[Portfolio Optimizer API](https://github.com/naksha2-2/portfolio_optimizer)** using Flask + yFinance  
-- 📈 Interested in: Financial Engineering, Risk Modeling, Quant Research  
+- 📈 Interested in: Financial Engineering,Quant Research,Hardware Engineering
 - 🧠 Learning: Deep Finance with Python, Portfolio Theory, and Embedded Systems  
-- 🎯 Goal: Crack internships at **Goldman Sachs, JP Morgan**, and **Maersk**  
+- 🎯 Goal:currently preparing for hardware design internship roles at semiconductor companies 
 - 🧰 Tools I use: Python, Flask, Pandas, NumPy, C, VHDL,Machine learning
 
 ---
