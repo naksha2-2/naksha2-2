@@ -12,7 +12,7 @@ I build, simulate, and verify digital logic systems — from ALUs to SoC modules
 - 📈 Interested in: Financial Engineering,Quant Research,Hardware Engineering
 - 🧠 Learning: Deep Finance with Python, Portfolio Theory, and Embedded Systems  
 - 🎯 Goal:currently preparing for hardware design internship roles at semiconductor companies 
-- 🧰 Tools I use: Python, Flask, Pandas, NumPy, C, VHDL,Machine learning
+- 🧰 Tools I use: Verilog,Python, Flask, Pandas, NumPy, C, VHDL,Machine learning
 
 ---
 
