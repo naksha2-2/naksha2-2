@@ -8,7 +8,7 @@ I build, simulate, and verify digital logic systems — from ALUs to SoC modules
 
 ## ⚡ About Me
 
-- 🛠️ Currently building: **[Portfolio Optimizer API](https://github.com/naksha2-2/portfolio_optimizer)** using Flask + yFinance  
+- 🛠️ Past built project: **[Portfolio Optimizer API](https://github.com/naksha2-2/portfolio_optimizer)** using Flask + yFinance  
 - 📈 Interested in: Financial Engineering,Quant Research,Hardware Engineering
 - 🧠 Learning: Deep Finance with Python, Portfolio Theory, and Embedded Systems  
 - 🎯 Goal:currently preparing for hardware design internship roles at semiconductor companies 
