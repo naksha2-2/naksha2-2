@@ -2,7 +2,7 @@
 
 🎓 Electronics & Communication | 💻 Aspiring Finance & Chip Systems Developer  
 🔍 Passionate about building real-world tools at the intersection of **tech, finance, and data**.
-I build, simulate, and verify digital logic systems — from ALUs to SoC modules — using Verilog/SystemVerilog, FPGA toolchains, and Python-based analysis tooling.
+I build, simulate, and verify digital logic systems from ALUs to SoC modules using Verilog & little-bit of SystemVerilog, and Python-based analysis tooling.
 
 ---
 
