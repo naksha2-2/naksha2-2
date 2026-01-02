@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Naksha
 
-🎓 Electronics & Communication | 💻 Aspiring Finance & Chip Systems Developer  
+🎓 Electronics & Communication | 💻 Aspiring Engineer  
 🔍 Passionate about building real-world tools at the intersection of **tech, finance, and data**.
-I build, simulate, and verify digital logic systems from ALUs to SoC modules using Verilog & little-bit of SystemVerilog, and Python-based analysis tooling.
+I build, simulate, in Python.
 
 ---
 
@@ -10,9 +10,9 @@ I build, simulate, and verify digital logic systems from ALUs to SoC modules usi
 
 - 🛠️ Past built project: **[Portfolio Optimizer API](https://github.com/naksha2-2/portfolio_optimizer)** using Flask + yFinance  
 - 📈 Interested in: Financial Engineering,Quant Research,Hardware Engineering
-- 🧠 Learning: Deep Finance with Python, Portfolio Theory, and Embedded Systems  
+- 🧠 Learning:  Embedded Systems  
 - 🎯 Goal:currently preparing for hardware design internship roles at semiconductor companies 
-- 🧰 Tools I use: Verilog,Python, Flask, Pandas, NumPy, C, VHDL,Machine learning
+- 🧰 Tools I use: Verilog,Python, Flask, Pandas, NumPy, C, Machine learning
 
 ---
 
